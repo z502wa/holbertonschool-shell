@@ -1,2 +1,4 @@
 #!/bin/bash
-basename "$PWD"
+#!/bin/bash
+pwd
+
